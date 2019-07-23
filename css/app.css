@@ -1,0 +1,44 @@
+html,
+body {
+  font-size: 100%; 
+}
+  body {
+  	margin: 0;
+  	font-family: Arial black;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-width: 300px;
+}
+
+.topnav {
+	overflow: hidden;
+  	background-color: #4682B4;
+}
+
+.topnav a {
+	color: white;
+	float: left;
+	padding: 14px 16px;
+	text-align: left;
+ 	font-size: 17px;
+
+}
+
+.topnav a:hover {
+  background-color:#87CEEB;
+  color: #4169E1;
+}
+
+.logo{
+	text-align: center;
+}
+
+.right{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.side{
+	float: right;
+	width: 700px;
+}
